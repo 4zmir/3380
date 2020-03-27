@@ -70,8 +70,7 @@ button {
     background-color: #4dacff;
     color: white;
     padding: 8px 21%;
-    margin: 20px 38% 0 10%;
-    margin-top: 4%;
+    margin: 4% 38% 0 10%;
     border: 2px solid #4dacff;
     cursor: pointer;
     transition-duration: 0.1s;
